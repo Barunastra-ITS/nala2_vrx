@@ -8,7 +8,7 @@ This repository is the home to the source code and software documentation for th
 
 > [!NOTE]
 > This developement effort was executed by the
-> [Honu Robotics](https://.honurobotics.com) team, thanks to the sponsorship
+> [Honu Robotics](https://honurobotics.com) team, thanks to the sponsorship
 > of [RoboNation](https://robonation.org/).
 
 We are happy to announce that the repository has been ported to use supported
@@ -53,7 +53,7 @@ If you have any questions about these topics, or would like to work on other asp
 ## Contributors
 
 > [!NOTE]
-> The [Honu Robotics](https://.honurobotics.com) team, thanks to the
+> The [Honu Robotics](https://honurobotics.com) team, thanks to the
 > sponsorship of [RoboNation](https://robonation.org/) is currently the
 > maintainer of this repository.
 
