@@ -7,7 +7,7 @@ This repository is the home to the source code and software documentation for th
 ## A new modernization development: Gazebo Harmonic and ROS 2 Jazzy
 
 > [!NOTE]
-> This developement effort was executed by the
+> This development effort was executed by the
 > [Honu Robotics](https://honurobotics.com) team, thanks to the sponsorship
 > of [RoboNation](https://robonation.org/).
 
