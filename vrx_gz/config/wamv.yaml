@@ -93,7 +93,7 @@ joy_teleop:
       deadman_buttons: [4]
       axis_mappings:
         data:
-          axis: 3
+          axis: 1
           scale: 1000.0
           offset: 0
 
@@ -104,7 +104,7 @@ joy_teleop:
       deadman_buttons: [4]
       axis_mappings:
         data:
-          axis: 0
+          axis: 2
           scale: -1.0
           offset: 0
 
