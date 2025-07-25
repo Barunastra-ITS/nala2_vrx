@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>rviz_plugin</name>
+  <version>0.0.0</version>
+  <description>Rviz plugin package for nala navigation</description>
+  <maintainer email="arundayapratama@gmail.com">sirund</maintainer>
+  <license>Apache-2.0</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <depend>tf2</depend>
+  <depend>rclcpp</depend>
+  
+  <depend>rviz_common</depend>
+  <depend>rviz_rendering</depend>
+  
+  <depend>nav_msgs</depend>
+  <depend>std_msgs</depend>
+  <depend>geometry_msgs</depend>
+  <depend>nala2_interfaces</depend>
+  <depend>ares_interfaces</depend>
+  <depend>visualization_msgs</depend>
+  <depend>interactive_markers</depend>
+  
+  <exec_depend>libqt5-gui</exec_depend>
+  <exec_depend>libqt5-core</exec_depend>
+  <exec_depend>libqt5-widgets</exec_depend>
+
+  <test_depend>ament_lint_auto</test_depend>
+  <test_depend>ament_lint_common</test_depend>
+
+  <export>
+    <rviz plugin="${prefix}/plugin_description.xml"/>
+    <build_type>ament_cmake</build_type>
+  </export>
+
+</package>

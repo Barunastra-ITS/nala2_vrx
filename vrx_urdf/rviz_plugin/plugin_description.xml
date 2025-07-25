@@ -1,0 +1,17 @@
+<library path="rviz_plugin">
+  <class name="rviz_plugin/WaypointTool"
+         type="waypoint_nav_plugin::WaypointNavTool"
+         base_class_type="rviz_common::Tool">
+    <description>
+      Tool for planting waypoints on the ground plane in rviz.
+    </description>
+  </class>
+
+  <class name="rviz_plugin/WaypointPanel"
+         type="waypoint_nav_plugin::WaypointNavPanel"
+         base_class_type="rviz_common::Panel">
+    <description>
+      Panel for setting waypoints on the ground plane in rviz.
+    </description>
+  </class>  
+</library>
